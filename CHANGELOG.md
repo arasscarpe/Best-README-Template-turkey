@@ -1,35 +1,42 @@
-# Changelog
+# Değişiklik Günlüğü
+
+## v1.1.3
+
+### Eklenen / Değiştirilen
+- Bu sürümde proje Türkçeye çevrildi
+
+---
 
 ## v1.1.2
 
-### Added or Changed
-- Change license to Unlicense; releasing the project fully into the public domain
-- Add simplified project cover image
+### Eklenen / Değiştirilen
+- Lisans Unlicense olarak değiştirildi; proje tamamen kamu alanına bırakıldı
+- Basitleştirilmiş proje kapak görseli eklendi
 
+---
 
 ## v1.1.1
 
-### Added or Changed
-- Fixed back to top alignment (revert changes)
+### Eklenen / Değiştirilen
+- Başa dön bağlantısının hizalaması düzeltildi (önceki değişiklik geri alındı)
 
+---
 
 ## v1.1.0
 
-### Added or Changed
-- Fixed back to top link alignment deprecated tag, use CSS style instead
-- Added contrib.rocks to show top contributors
+### Eklenen / Değiştirilen
+- Başa dön bağlantısı hizalama sorunu düzeltildi (deprecated etiket kaldırıldı, CSS stil kullanıldı)
+- En iyi katkıda bulunanları göstermek için contrib.rocks eklendi
 
+---
 
 ## v1.0.0
 
-### Added or Changed
-- Added this changelog :)
-- Fixed typos in both templates
-- Back to top links
-- Added more "Built With" frameworks/libraries
-- Changed table of contents to start collapsed
-- Added checkboxes for major features on roadmap
-
-### Removed
-
-- Some packages/libraries from acknowledgements I no longer use
+### Eklenen / Değiştirilen
+- Bu değişiklik günlüğü eklendi :)
+- Her iki şablondaki yazım hataları düzeltildi
+- Başa dön bağlantıları eklendi
+- "Built With" bölümüne daha fazla framework/kütüphane eklendi
+- İçindekiler bölümü varsayılan olarak kapalı hale getirildi
+- Yol haritasındaki büyük özelliklere checkbox eklendi
+- Teşekkürler bölümündeki bazı artık kullanılmayan paketler/kütüphaneler kaldırıldı
